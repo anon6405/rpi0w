@@ -1,1 +1,1 @@
-## Raspberry Pi 0w scripts
+## Raspberry Pi scripts
